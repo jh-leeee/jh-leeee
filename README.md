@@ -1,6 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning AI
-📫 How to reach me: dlwhdgh026@gmail.com
+-🌱 I’m currently learning AI
+
+-📫 How to reach me: dlwhdgh026@gmail.com
 
 
 <!--
