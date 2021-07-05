@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning AI
+📫 How to reach me: dlwhdgh026@gmail.com
+
 
 <!--
 **jh-leeee/jh-leeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
